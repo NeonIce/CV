@@ -1,6 +1,6 @@
 # Michael Kitch
 ## Front End Developer &bull; Bath
-#### [http://neonice.co.uk](http://neonice.co.uk) &bull; [michael.kitch@gmail.com](michael.kitch@gmail.com) 
+#### [http://neonice.co.uk](http://neonice.co.uk) &bull; michael.kitch@gmail.com
 
 
 ### About Me
