@@ -44,6 +44,7 @@ http://360businesslaw.co.uk
 
 ### Languages
 ---
+|---|---|---|
 | jQuery/JavaScript | Gulp | Markdown |
 | SASS | XSLT | Bootstrap |
 | HTML5 | SVG Sprites | PHP |
@@ -51,6 +52,7 @@ http://360businesslaw.co.uk
 
 ### Software
 ---
+|---|---|---|
 | Sublime Text | Autodesk Graphic | Illustrator |
 | Coda | Sketch | SugarCRM |
 | Version Control (git) | Photoshop | OS X / Windows |
