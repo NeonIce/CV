@@ -1,87 +1,73 @@
 # Michael Kitch
-## Front End Developer &bull; Bath
-#### [http://neonice.co.uk](http://neonice.co.uk) &bull; michael.kitch@gmail.com
 
+## Software Engineer • Dorset, UK
+
+#### [michael.kitch@gmail.com](mailto:michael.kitch@gmail.com)
+
+---
 
 ### About Me
+
+I’m a passionate, creative, and detail-oriented software engineer with over eight years of professional experience building and improving web platforms used by financial professionals and investors. I thrive on solving complex problems, delivering reliable solutions, and crafting intuitive front-end experiences that make technology accessible and engaging.
+
+Having been part of SECCL’s early startup team, I’ve helped shape systems, processes, and products from the ground up. I’m at my best when collaborating with others to turn great ideas into scalable, maintainable, and meaningful technology.
+
 ---
-I am a passionate, creative and organised individual looking to forge a career doing what I love: using cool tech to build amazing stuff online. I love a challenge and am always interested in learning new languages and skills and am always looking to expend my knowledge into new areas.
-
-Being naturally creative I like to think outside of the box to improve upon the skills and knowledge I already have and I am always trying to push myself with anything that I do. As such I am able to work well as a part of a team or on my own.
-
 
 ### Professional Experience
+
+**Software Engineer** • *July 2017 – Present*
+**SECCL Technology (Part of Octopus Group)** • Bath, UK
+
+* Joined as one of the first 10 team members; key contributor to early product development leading to SECCL’s acquisition by Octopus Group.
+* Designed and built core features across SECCL’s investor and professional platforms, enabling users to manage accounts, portfolios, and assets securely online.
+* Led front-end improvements using JavaScript, TypeScript, and modern tooling to enhance performance, accessibility, and maintainability.
+* Contributed to backend services and AWS-based architecture, including Lambda deployments, MongoDB data management, and automation through GitHub Actions.
+* Built a **self-service branding system** allowing clients to style and customise their platforms, instrumental in securing partnerships with Söderberg and Monzo.
+* Supported ongoing delivery pipelines, CI/CD improvements, and release processes.
+* Provided technical mentorship and collaboration across product and engineering teams to maintain quality and consistency.
+
 ---
-*Front End Developer* &bull; July 2014 - Present
-Conscious Solutions &bull; Design Agency, Bristol
 
-+ Working on building sites that have a 20-30 hour budget from their signed off designs into fully realised websites, with full CMS integration using a mobile first methodology to ensure a satisfying user-experience across platforms.
-+ Performing an extensive QA procedure to ensure browser compatibility, device optimisation and standards compliance.
-+ Designing and implementing post-live changes to client websites, to introduce new functionality or incorporate any changes to brand.
-+ Working with junior colleagues within the development team and help them with issues and technical queries they may have relating to their build or support work.
-+ Integrating Passle into Hedges Law’s new website using a custom created jQuery module.
-+ Created a custom video embedded within a popup modal using existing modal jQuery frameworks.
-+ Integrated an embedded Google Translate service into Stuarts Law’s website.
-+ Creation of Media Centre for Devonalds to bring together content from their News stories, Blog posts, Twitter and Facebook feeds using related media embeds where possible.
-+ Taking on ad-hoc projects ranging from CMS support to documentation and support calls.
-+ Working with one of the designers on a concept for a new mobile device menu that was later developed
-into a full framework that could be integrated with client sites.
-+ Being responsible for creating and maintaining a library of legal accreditation logos required for many of the client websites.
+### Previous Experience
 
+**Front End Developer** • *July 2014 – July 2017*
+**Conscious Solutions** • Bristol, UK
 
-### Recent Projects
+* Developed responsive, CMS-integrated websites from signed-off designs to live launch within tight project budgets.
+* Performed QA, browser/device testing, and accessibility validation for all projects.
+* Created and maintained shared design systems, JavaScript widgets, and modular UI frameworks.
+* Supported junior developers and cross-team collaboration within a busy design agency environment.
+
 ---
-*Talbots Law*
-http://talbotslaw.co.uk
 
-+ Worked on custom logic, working around the CMS templates, on Staff Profile pages that allowed for clients to easily add, edit or remove multiple staff photos while maintaining a complex HTML structure and keeping the page layout responsive throughout.
+### Key Skills
 
-*360 Business Law*
-http://360businesslaw.co.uk
+**Languages & Frameworks:**
+JavaScript • TypeScript • Node.js • HTML5 • CSS3 / SASS • jQuery • XSLT
 
-+ Built a stylish, deep-scrolling landing page, within the confines of the in-house CM, to promote specific services that the client offered, listing information on how they differ from their competitors and why you should use their services while keeping a responsive layout.
- 
+**Tools & Platforms:**
+Git / GitHub • GitHub Actions • AWS (Lambda, S3) • MongoDB • CI/CD • ESlint • Gulp
 
-### Languages
+**Design & Prototyping:**
+Sketch • Photoshop • Illustrator • Autodesk Graphic
+
 ---
-+ jQuery/JavaScript
-+ SASS
-+ HTML5
-+ Gulp
-+ XSLT
-+ SVG Sprites
-+ Markdown
-+ Bootstrap
-+ PHP
 
+### Education
 
-### Software
+**HND in Computing** – Salisbury College
+**BTEC National Diploma for IT Practitioners** – Salisbury College
+
 ---
-+ Sublime Text
-+ Coda
-+ Version Control (git)
-+ Autodesk Graphic
-+ Sketch
-+ Photoshop
-+ Illustrator
-+ SugarCRM
-+ OS X / Windows
 
+### Additional Interests
 
-### Qulaifications
+Beyond technology, I’m passionate about workplace wellbeing and mental health. I’m interested in exploring future opportunities where I can support others’ growth, wellbeing, and psychological safety—potentially in people or HR-focused roles that combine empathy and structure with my technical background.
+
 ---
-*Education:*
 
-Moyles Court School &bull; 1991-2001
-+ 9 GCSE’s at C grade or above, including Maths and English
+### Contact
 
-Salisbury College &bull; 2001 - 2006
-+ Higher Nation Diploma in Computing (9 Distinctions, 5 Merits, 2 passes)
-+ BTEC National Diploma for IT practitioners (Triple Merit)
-
-
-*Training:*
-Apple Customer Service &bull; 2010 - 2014
-+ Apple ASTO Training
-+ Apple Customer Experience Seminar
-
+[michael.kitch@gmail.com](mailto:michael.kitch@gmail.com)
+Dorset, UK
