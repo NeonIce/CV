@@ -2,72 +2,103 @@
 
 ## Software Engineer • Dorset, UK
 
-#### [michael.kitch@gmail.com](mailto:michael.kitch@gmail.com)
+### [carrd](#) • [michael.kitch@gmail.com](mailto:michael.kitch@gmail.com) • [LinkedIn](#) • [GitHub](https://github.com/NeonIce/CV)
 
 ---
 
 ### About Me
 
-I’m a passionate, creative, and detail-oriented software engineer with over eight years of professional experience building and improving web platforms used by financial professionals and investors. I thrive on solving complex problems, delivering reliable solutions, and crafting intuitive front-end experiences that make technology accessible and engaging.
+Hi, I'm Michael, a full-stack Software Engineer from the South of England. For the last 8 years I’ve been working at SECCL Technology Ltd, helping the company grow from an early-stage startup into one of the key players in the UK fintech industry. During that time, I’ve contributed across many areas of the business, with a particular focus on the UI and API.
 
-Having been part of SECCL’s early startup team, I’ve helped shape systems, processes, and products from the ground up. I’m at my best when collaborating with others to turn great ideas into scalable, maintainable, and meaningful technology.
+I’m now looking for a new opportunity with a team that cares about clean, well-tested code where I can continue learning, growing, and contributing to products that make a difference and ideally, I’d love to join a company that values thoughtful design, mentoring, and team wellbeing as much as technical skill.
 
 ---
 
 ### Professional Experience
 
-**Software Engineer** • *July 2017 – Present*
-**SECCL Technology (Part of Octopus Group)** • Bath, UK
+**Software Engineer**
+*SECCL Technology Ltd – Bath (Remote hybrid)*
+*July 2017 – Present*
 
-* Joined as one of the first 10 team members; key contributor to early product development leading to SECCL’s acquisition by Octopus Group.
-* Designed and built core features across SECCL’s investor and professional platforms, enabling users to manage accounts, portfolios, and assets securely online.
-* Led front-end improvements using JavaScript, TypeScript, and modern tooling to enhance performance, accessibility, and maintainability.
-* Contributed to backend services and AWS-based architecture, including Lambda deployments, MongoDB data management, and automation through GitHub Actions.
-* Built a **self-service branding system** allowing clients to style and customise their platforms, instrumental in securing partnerships with Söderberg and Monzo.
-* Supported ongoing delivery pipelines, CI/CD improvements, and release processes.
-* Provided technical mentorship and collaboration across product and engineering teams to maintain quality and consistency.
+SECCL is a modern wealth management platform used by firms like Monzo, P1, and Söderberg. I joined during its startup phase and have contributed to the investor and adviser platforms, evolving from a front-end specialist into a full-stack contributor with strong product instincts.
+
+#### Key Contributions
+
+* Helped SECCL scale from a 10-person startup to a company now serving major clients such as Monzo and Söderberg.
+* Built and maintained React-based interfaces for investors and advisers, ensuring responsiveness, performance, and accessibility.
+* Collaborated cross-functionally with product, design, and backend teams to deliver features that serve both end users and internal stakeholders.
+* Led development on several UI modules enabling advisers to manage portfolios, fees, clients, and documentation via the adviser portal.
+* Recently contributed to the backend API, implementing new `GET` and `PATCH` endpoints to allow firms to self-serve on branding and legal text updates, reducing customer support overhead.
+* Participated in agile ceremonies using Fibonacci-based sprint planning (story points), retros, and reviews within a mature Scrum environment.
+* Helped maintain UI consistency through component libraries and design system updates.
+* Supported continuous deployment, testing, and QA processes in a fast-paced, regulated industry environment.
+* Improved internal efficiency by helping to create a self-service branding tool that reduced the number of branding-related support tickets.
+
+#### Tech Stack
+
+React • TypeScript • Node.js • REST APIs • CSS / SCSS • Git • Agile • CI/CD • Design Systems • Regulated Environment
 
 ---
 
-### Previous Experience
+### Selected Projects
 
-**Front End Developer** • *July 2014 – July 2017*
-**Conscious Solutions** • Bristol, UK
+**Investor Portal Redesign**
 
-* Developed responsive, CMS-integrated websites from signed-off designs to live launch within tight project budgets.
-* Performed QA, browser/device testing, and accessibility validation for all projects.
-* Created and maintained shared design systems, JavaScript widgets, and modular UI frameworks.
-* Supported junior developers and cross-team collaboration within a busy design agency environment.
+* Rebuilt the core investor dashboard with React and SCSS, improving performance and accessibility while integrating key data from APIs.
+
+**Adviser Branding API**
+
+* Designed and implemented backend endpoints (`GET` / `PATCH`) enabling self-service branding and disclaimer management for adviser platforms — reducing dependency on support and improving SLA.
+
+**Platform Customisation Framework**
+
+* Worked closely with design and product teams to enable scalable white-labelling across adviser instances; contributed to both UI logic and API routing.
 
 ---
 
-### Key Skills
+### Technical Skills
 
-**Languages & Frameworks:**
-JavaScript • TypeScript • Node.js • HTML5 • CSS3 / SASS • jQuery • XSLT
+**Languages & Frameworks**
 
-**Tools & Platforms:**
-Git / GitHub • GitHub Actions • AWS (Lambda, S3) • MongoDB • CI/CD • ESlint • Gulp
+* JavaScript
+* TypeScript
+* React
+* Node.js
+* HTML5
+* CSS3 / SCSS
+* RESTful APIs
+* Markdown
+* Jest
+* Webpack
 
-**Design & Prototyping:**
-Sketch • Photoshop • Illustrator • Autodesk Graphic
+**Tools, Platforms & Workflow**
+
+* Git / GitHub
+* CI/CD via GitHub Actions
+* AWS (Lambda, CloudWatch, S3)
+* MongoDB
+* Docker
+
+**Software**
+
+* VSCode
+* Nova
+* WebStorm
+* Mongo Compass
+* Docker Desktop
+* Slack
 
 ---
 
 ### Education
 
-**HND in Computing** – Salisbury College
-**BTEC National Diploma for IT Practitioners** – Salisbury College
+**Salisbury College – 2001–2006**
+
+* Higher National Diploma in Computing (9 Distinctions, 5 Merits, 2 Passes)
+* BTEC National Diploma for IT Practitioners (Triple Merit)
 
 ---
 
-### Additional Interests
+### Availability
 
-Beyond technology, I’m passionate about workplace wellbeing and mental health. I’m interested in exploring future opportunities where I can support others’ growth, wellbeing, and psychological safety—potentially in people or HR-focused roles that combine empathy and structure with my technical background.
-
----
-
-### Contact
-
-[michael.kitch@gmail.com](mailto:michael.kitch@gmail.com)
-Dorset, UK
+* One Month notice period
