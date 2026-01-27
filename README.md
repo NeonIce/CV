@@ -18,7 +18,7 @@ I’m now looking for a new opportunity with a team that cares about clean, well
 
 **Software Engineer**
 *SECCL Technology Ltd – Bath (Remote hybrid)*
-*July 2017 – Present*
+*July 2017 – January 2026*
 
 SECCL is a modern wealth management platform used by firms like Monzo, P1, and Söderberg. I joined during its startup phase and have contributed to the investor and adviser platforms, evolving from a front-end specialist into a full-stack contributor with strong product instincts.
 
@@ -101,4 +101,4 @@ React • TypeScript • Node.js • REST APIs • CSS / SCSS • Git • Agile 
 
 ### Availability
 
-* One Month notice period
+* Immediate availability
