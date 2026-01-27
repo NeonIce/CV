@@ -2,7 +2,7 @@
 
 ## Software Engineer • Dorset, UK
 
-### [carrd](#) • [michael.kitch@gmail.com](mailto:michael.kitch@gmail.com) • [LinkedIn](#) • [GitHub](https://github.com/NeonIce/CV)
+### [michael.kitch@gmail.com](mailto:michael.kitch@gmail.com) • [LinkedIn](https://www.linkedin.com/in/michael-kitch-94066b39b/) • [GitHub](https://github.com/NeonIce/CV)
 
 ---
 
