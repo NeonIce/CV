@@ -1,104 +1,62 @@
 # Michael Kitch
 
-## Software Engineer • Dorset, UK
+**Software Engineer • Dorset, UK**
+[michael.kitch@gmail.com](mailto:michael.kitch@gmail.com) • [LinkedIn](https://www.linkedin.com/in/michael-kitch-94066b39b/) • [GitHub](https://github.com/NeonIce/CV)
 
-### [michael.kitch@gmail.com](mailto:michael.kitch@gmail.com) • [LinkedIn](https://www.linkedin.com/in/michael-kitch-94066b39b/) • [GitHub](https://github.com/NeonIce/CV)
+## Profile
 
----
+Full-stack Software Engineer with 8 years' experience at SECCL Technology, helping scale the company from an early-stage startup into an established UK fintech platform. Strongest in TypeScript, React and web application development, with experience across UI, REST APIs, testing and CI/CD. Comfortable working closely with product, design and backend teams in agile environments, with a strong focus on clean, maintainable and accessible software.
 
-### About Me
+## Key Skills
 
-Hi, I'm Michael, a full-stack Software Engineer from the South of England. For the last 8 years I’ve been working at SECCL Technology Ltd, helping the company grow from an early-stage startup into one of the key players in the UK fintech industry. During that time, I’ve contributed across many areas of the business, with a particular focus on the UI and API.
+**Languages & Frameworks:** TypeScript, JavaScript, React, Node.js, HTML5, CSS3/SCSS, REST APIs, Jest
+**Cloud & Infrastructure:** AWS (Lambda, CloudWatch, S3), Docker, CI/CD, GitHub Actions
+**Data & Tools:** MongoDB, Git/GitHub, Webpack, Agile/Scrum, Design Systems
+**Development:** Responsive & accessible UI, API development, testing/QA, component libraries, white-labelling, CMS development
 
-I’m now looking for a new opportunity with a team that cares about clean, well-tested code where I can continue learning, growing, and contributing to products that make a difference and ideally, I’d love to join a company that values thoughtful design, mentoring, and team wellbeing as much as technical skill.
+## Professional Experience
 
----
+### Software Engineer — SECCL Technology Ltd
 
-### Professional Experience
+**July 2017 – January 2026 | Bath / Remote**
 
-**Software Engineer**
-*SECCL Technology Ltd – Bath (Remote hybrid)*
-*July 2017 – January 2026*
+Joined SECCL during its startup phase and contributed to the development and growth of its investor and adviser platforms, progressing from a front-end specialist into a full-stack contributor.
 
-SECCL is a modern wealth management platform used by firms like Monzo, P1, and Söderberg. I joined during its startup phase and have contributed to the investor and adviser platforms, evolving from a front-end specialist into a full-stack contributor with strong product instincts.
+* Helped scale the engineering platform as the company grew from a 10-person startup to a major UK fintech provider serving clients including Monzo and Söderberg.
+* Built and maintained React/TypeScript interfaces for investor and adviser platforms, with a focus on performance, accessibility and responsive design.
+* Led development of UI modules covering portfolios, fees, clients and documentation within the adviser portal.
+* Designed and implemented REST API endpoints enabling firms to self-serve branding and legal-text updates, reducing support dependency.
+* Contributed to scalable white-labelling and platform customisation across adviser instances.
+* Collaborated closely with product, design and backend teams to deliver user-focused features and maintain consistent design systems.
+* Participated in Scrum ceremonies including sprint planning, reviews and retrospectives, using story-point estimation.
+* Contributed to automated testing, QA and continuous deployment within a regulated software environment.
 
-#### Key Contributions
+**Technologies:** TypeScript • React • Node.js • REST APIs • SCSS • Jest • Git • AWS • MongoDB • Docker • CI/CD
 
-* Helped SECCL scale from a 10-person startup to a company now serving major clients such as Monzo and Söderberg.
-* Built and maintained React-based interfaces for investors and advisers, ensuring responsiveness, performance, and accessibility.
-* Collaborated cross-functionally with product, design, and backend teams to deliver features that serve both end users and internal stakeholders.
-* Led development on several UI modules enabling advisers to manage portfolios, fees, clients, and documentation via the adviser portal.
-* Recently contributed to the backend API, implementing new `GET` and `PATCH` endpoints to allow firms to self-serve on branding and legal text updates, reducing customer support overhead.
-* Participated in agile ceremonies using Fibonacci-based sprint planning (story points), retros, and reviews within a mature Scrum environment.
-* Helped maintain UI consistency through component libraries and design system updates.
-* Supported continuous deployment, testing, and QA processes in a fast-paced, regulated industry environment.
-* Improved internal efficiency by helping to create a self-service branding tool that reduced the number of branding-related support tickets.
+### Front End Web Developer — Conscious Solutions
 
-#### Tech Stack
+**July 2014 – July 2017 | Bristol**
 
-React • TypeScript • Node.js • REST APIs • CSS / SCSS • Git • Agile • CI/CD • Design Systems • Regulated Environment
+Worked within a front-end development team delivering responsive, CMS-driven websites for leading UK law firms and professional services companies.
 
----
+* Built responsive, mobile-first websites using HTML5, CSS3, JavaScript, jQuery and XSLT.
+* Translated designs into polished, production-ready user experiences while working closely with designers, senior developers and clients.
+* Developed bespoke layouts and reusable CMS components within an in-house platform.
+* Delivered post-launch enhancements and feature updates to meet changing client requirements.
+* Worked directly with clients during feedback and review cycles to refine functionality and UX.
+* Performed extensive cross-browser, device and accessibility testing.
+* Developed dynamic functionality including AJAX interactions, API-powered content and responsive navigation.
+* Supported internal tooling, documentation and shared development assets while delivering projects within commercial deadlines.
 
-### Selected Projects
+**Technologies:** HTML5 • CSS3 • JavaScript • jQuery • XSLT • AJAX • CMS • Responsive Design
 
-**Investor Portal Redesign**
+## Qualifications
 
-* Rebuilt the core investor dashboard with React and SCSS, improving performance and accessibility while integrating key data from APIs.
+### Salisbury College | 2001–2006
 
-**Adviser Branding API**
+**Higher National Diploma in Computing** — 9 Distinctions, 5 Merits, 2 Passes
+**BTEC National Diploma for IT Practitioners** — Triple Merit
 
-* Designed and implemented backend endpoints (`GET` / `PATCH`) enabling self-service branding and disclaimer management for adviser platforms — reducing dependency on support and improving SLA.
+## References
 
-**Platform Customisation Framework**
-
-* Worked closely with design and product teams to enable scalable white-labelling across adviser instances; contributed to both UI logic and API routing.
-
----
-
-### Technical Skills
-
-**Languages & Frameworks**
-
-* JavaScript
-* TypeScript
-* React
-* Node.js
-* HTML5
-* CSS3 / SCSS
-* RESTful APIs
-* Markdown
-* Jest
-* Webpack
-
-**Tools, Platforms & Workflow**
-
-* Git / GitHub
-* CI/CD via GitHub Actions
-* AWS (Lambda, CloudWatch, S3)
-* MongoDB
-* Docker
-
-**Software**
-
-* VSCode
-* Nova
-* WebStorm
-* Mongo Compass
-* Docker Desktop
-* Slack
-
----
-
-### Education
-
-**Salisbury College – 2001–2006**
-
-* Higher National Diploma in Computing (9 Distinctions, 5 Merits, 2 Passes)
-* BTEC National Diploma for IT Practitioners (Triple Merit)
-
----
-
-### Availability
-
-* Immediate availability
+Available on request.
